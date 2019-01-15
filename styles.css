@@ -1,0 +1,41 @@
+body
+{
+text-align: center
+}
+
+
+figure 
+{ 
+	display: inline-block;
+
+}
+
+
+
+.img-milieu{
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+}
+
+footer { padding-top: 50px;
+	     padding-bottom: 50px;
+	     padding-right: 15px;
+	     background: grey;
+	     left:0;
+	     right:0;
+		position:fixed;
+	     bottom:0;
+
+}
+img 
+{
+ text-align: center; 
+ }
+
+ .toto
+ {
+
+text-align: right;
+
+ }
